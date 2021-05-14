@@ -1,9 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h3> Automated Build with auto trigger build </h3>
-<h3> Auto deploy with new version of application </h3>
-<h3> Deployed in contianer with auto build and ansible </h3>
-<h3> Deployed container on docker host with ansible and auto build </h3>
-<h3> Test Deployment </h3>
-<h4> Git - Jenkins - Docker1 </h4>
+<h1> Project 3 - Maven - Auto Build and Deploy </h1>
